@@ -1,0 +1,23 @@
+[33mcommit 1d7b038bac5ea798c6ce6a2d13878a83d6162272[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: akhtar <akhtar@gmail.com>
+Date:   Wed Jun 21 03:27:44 2023 +0530
+
+    second commit
+
+[33mcommit 05ddc5d60c810844ff10e764998c22cbe92214f8[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: akhtar <akhtar@gmail.com>
+Date:   Wed Jun 21 03:13:45 2023 +0530
+
+    First commit
+
+[33mcommit 3418b8f918696383299c21bbee573490030778b0[m
+Author: akhtar <akhtar@gmail.com>
+Date:   Wed Jun 21 03:10:35 2023 +0530
+
+    Fist commit
+
+[33mcommit 7acf32de69b3778df9f068b0542571799bca398f[m
+Author: akhtar <akhtar@gmail.com>
+Date:   Wed Jun 21 03:08:14 2023 +0530
+
+    My first commit from mumbai
